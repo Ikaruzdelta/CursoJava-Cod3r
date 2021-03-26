@@ -4,6 +4,8 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
+//Este metodo começa a se levar para a lista
+
 public class ConjuntoBaguncado {
     public static void main(String[] args) {
         
