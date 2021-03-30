@@ -1,2 +1,2 @@
-# Estudos-java-cod3r
-Códigos usados para aprender Java
+# EstudosJava-Cod3r
+Códigos, exemplos, programas usados no curso
