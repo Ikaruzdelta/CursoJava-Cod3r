@@ -7,10 +7,10 @@ public class Matriz {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         
-        System.err.println("Quantos alunos?");
+        System.out.println("Quantos alunos?");
         int qtdAlunos = entrada.nextInt();
         
-        System.err.println("Quantos notas por alunos?");
+        System.out.println("Quantos notas por alunos?");
         int qtdNotas = entrada.nextInt();
         
         double[][] notasDaTurma = new double[qtdAlunos][qtdNotas];

@@ -1,14 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Arrays;
 
-/**
- *
- * @author Ikaruz
- */
+
 public class Foreach {
 
     public static void main(String[] args) {
@@ -21,7 +13,7 @@ public class Foreach {
         
         //O foreach faz com que não se preocupe em fazer laço:
         for(double nota: notas){
-            System.out.println(nota + "  ");
+            System.out.println(nota);
         }
     }
 
