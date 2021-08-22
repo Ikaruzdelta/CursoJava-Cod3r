@@ -1,10 +1,7 @@
 package Arrays;
 
 import java.util.Arrays;
-/**
- *
- * @author Ikaruz
- */
+
 public class Exercicio {
 
     public static void main(String[] args) {
