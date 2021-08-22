@@ -16,7 +16,6 @@ public class Pilha {
         livros.push("O Hobbit");
         
         System.out.println(livros.peek());
-        
         System.out.println(livros.poll());
         System.out.println(livros.poll());
         System.out.println(livros.poll());
